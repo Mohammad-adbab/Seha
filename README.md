@@ -28,7 +28,7 @@
 </div>
                            <div id="results-inquiery" style="display:none;">
  <div class="results-inquiery row">
-                                <div class="col-md-6"><span>الاسم:</span>فاطمة احمد الغامدي </div>
+                                <div class="col-md-6"><span>الاسم:</span>محمد عدنان  </div>
                                 
               <div class="col-md-6"><span>تاريخ إصدار تقرير الإجازة:</span> 2025-1-1</div>
                            <div class="col-md-6"><span>تبدأ من:</span> 2025-1-1</div>
